@@ -1,3 +1,4 @@
+    
 [submodule "gs-gym"]
 	path = gs-gym
-	url = ./gs-gym
+	url = https://github.com/yeeking/gs-gym.git
